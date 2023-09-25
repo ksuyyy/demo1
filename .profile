@@ -26,4 +26,6 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-Hello!
+Hello Git!
+
+This is dev1
